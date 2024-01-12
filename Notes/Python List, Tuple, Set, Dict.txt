@@ -1,6 +1,6 @@
 List []: allows duplicates, mutable
   Methods:
-     - len(), append(), insert(), remove()
+     - len(), append(), insert(), remove(), sort()
 
 
 Tuple (): similar to lists but immutable
