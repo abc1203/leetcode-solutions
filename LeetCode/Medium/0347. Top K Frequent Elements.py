@@ -11,10 +11,15 @@ class Solution(object):
             2. put all of these into a max heap based on the frequency
             3. pop the max heap k times
         
-        sol 2
+        sol 2 - O(nlogn)
             1. create a hashmap with nums & their frequency
             2. sort the hashmap by value
             3. extract top k elements in hashmap
+
+        sol 3 - O(n)
+            1. create a hashmap with nums & their frequency
+            2. create an array with index = frequency & value = num
+            3. pick the top k frequent elements in the array
         """
 
         # create hashmap with according frequencies
