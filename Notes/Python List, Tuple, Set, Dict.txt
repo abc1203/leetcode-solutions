@@ -1,0 +1,4 @@
+List []: allows duplicates, mutable
+Tuple (): similar to lists but immutable
+Set {}: no duplicates, mutable, implemented using hash tables
+Dict {}: key-value pairs, mutable, implemented using hash tables
