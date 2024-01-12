@@ -3,7 +3,7 @@ Preparation for technical interviews. Include questions from Leetcode, Neetcode,
 
 Note that some of the solutions marked "Efficient" may be heavily copied from the internet (cause I'm not smart enough...)
 
-Currently working on finishing the Neetcode 150...
+Currently working on the Neetcode 150...
 
 Nextup: Neetcode All
 
