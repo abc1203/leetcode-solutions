@@ -7,8 +7,9 @@ class Solution(object):
 
         algo:
         1. use two pointers l and r
-        2. keep track of count of most frequent char between l and r (inclusive)
+        2. keep track of count of most frequent char between l and r; this value can only increases with a new char that appears more than last time
         3. if there are more than k chars different from the most frequent, increment l until there are less than k chars different from the most frequent
+        4. for each iteration, check if the new l & r creates longer substring than before
         """
 
         ans = 0
@@ -25,11 +26,11 @@ class Solution(object):
             max_freq = max(max_freq, mp[s[r]])
 
             while (r - l + 1) - max_freq > k:
-                if (r - l) > ans: 
-                    ans = r - l
-                    print(ans)
                 mp[s[l]] -= 1
                 l += 1
             
-            return ans
+            ans = max(ans, r - l + 1)
+            
+        return ans
+
 
