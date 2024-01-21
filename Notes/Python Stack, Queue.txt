@@ -1,0 +1,2 @@
+Stack:
+   - empty(), size, top(), push(a), pop()
