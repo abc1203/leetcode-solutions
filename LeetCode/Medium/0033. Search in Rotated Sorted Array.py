@@ -9,15 +9,6 @@ class Solution(object):
         1. find the index for minimum element
         2. by comparing the rightmost elem, check if it belongs to [nums[k], ..., nums[n-1]] or [nums[0], ..., nums[k-1]]
         3. run binary search from the subarray it belongs to
-
-        idea2 (not implemented):
-        1. define l & r first and check if nums[mid] == target
-        2. if not, we have 2 cases:
-            a. nums[mid] >= nums[l] - in this case we have:
-                target > nums[mid] or target < nums[l] => target in right half => l = mid + 1
-                else r = mid -1
-            b. nums[mid] < nums[l] - in this case we have:
-                target > nums[mid] or target < nums[l] => target in right half
         """
 
         def minIndex():
