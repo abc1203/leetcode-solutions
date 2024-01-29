@@ -1,0 +1,5 @@
+Snowflake OA:
+https://leetcode.com/discuss/interview-question/3169843/Snowflake-or-OA-or-All-Questions-or-Summer-Internship-2023-or
+ - String Patterns
+ - Thread Count
+ - 2851. String Transformation
