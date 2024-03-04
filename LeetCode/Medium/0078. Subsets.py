@@ -5,7 +5,9 @@ class Solution:
         :rtype: List[List[int]]
 
         idea:
-        - backtrack: returns all subsets of nums[:i+1]
+         - backtrack: returns all subsets related to nums[i]
+         - each iter has 2 choice: to include or not include
+         - both will continue iterating until end of nums is reached
         """
         ans = []
         curr_subset = []
