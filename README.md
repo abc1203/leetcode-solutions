@@ -12,4 +12,4 @@ Keeping this repo private until I get an offer from a top-tier company in the U.
 
 ## Progress
 Mar 2024: 100 problems solved  
-<img src="https://github.com/abc1203/technical-interview-prep/blob/main/LeetCode/Progress/100%20solved.png" height="50%" width="50%">
+<img src="https://github.com/abc1203/technical-interview-prep/blob/main/Progress/100%20solved.png" height="50%" width="50%">
