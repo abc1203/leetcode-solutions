@@ -8,3 +8,7 @@ Currently working on the Neetcode 150...
 Nextup: Neetcode All
 
 Keeping this repo private until I get an offer from a top-tier company in the U.S.
+
+
+## progress
+![screenshot](https://github.com/abc1203/technical-interview-prep/blob/main/LeetCode/Progress/100%20solved.png)
