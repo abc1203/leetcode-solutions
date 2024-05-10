@@ -7,7 +7,7 @@ Currently working on the Neetcode 150...
 
 Nextup: Neetcode All
 
-Keeping this repo private until I get an offer from a top-tier company in the U.S.
+Keeping this repo private until I get an offer in the U.S.
 
 
 ## Progress
