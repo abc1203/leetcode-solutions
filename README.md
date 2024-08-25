@@ -3,10 +3,6 @@ Preparation for technical interviews. Include questions from Leetcode, Neetcode 
 
 Note that some of the solutions marked "Efficient" may be referencing solutions from the internet
 
-Currently working on the Neetcode 150...
-
-Nextup: Neetcode All
-
 
 
 ## Progress
