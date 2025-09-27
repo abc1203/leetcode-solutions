@@ -7,5 +7,5 @@ Note that some of the solutions marked "Efficient" may be referencing solutions 
 
 ## Progress
 Mar 2024: 100 problems solved  
-Sept 2024: 200 problems solved
+Sept 2024: 200 problems solved  
 Sept 2025: 300 problems solved
